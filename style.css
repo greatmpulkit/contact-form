@@ -1,7 +1,19 @@
-div{
-    background-color: aquamarine;
-    width:500px;
-    border:15px solid;
-    padding:15px;
-    margin:10px;
-}
+body {background-color: black;}
+        #paramain {color: white;}
+        #read {color: white;}
+        #para1 {
+            color: white;
+            }
+        #para2 {
+            color: white;
+            }
+        #para3 {
+            color:  white;
+            }
+        #para4 {
+            color:  white;
+            }
+        #para5 {
+            color: white ;
+            }
+            button{color: rebeccapurple}
