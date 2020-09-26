@@ -19,4 +19,7 @@ body {background-color: black;}
             button{color: hotpink;}
             button{background-color: whitesmoke;}
             button{border-left: lightcoral;}
+            button{width: 130px;}
+            button{height:40px;}    
+            
     
