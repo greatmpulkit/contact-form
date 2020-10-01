@@ -21,7 +21,11 @@ body {text-align:left;}
             button{color: hotpink;}
             button{background-color: whitesmoke;}
             button{border-left: lightcoral;}
-            button{width: 130px;}
-            button{height:40px;}    
+            button{width: 200px;}
+            button{height:40px;}  
+            input{text-align:left;
+            height: 20px;
+            width: 200px;
+            }  
             
     
