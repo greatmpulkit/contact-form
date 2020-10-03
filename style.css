@@ -22,10 +22,17 @@ body {text-align:left;}
             button{background-color: whitesmoke;}
             button{border-left: lightcoral;}
             button{width: 200px;}
-            button{height:40px;}  
+            button{height:40px;
+            border-radius: 20px;
+            }  
             input{text-align:left;
             height: 20px;
             width: 200px;
             }  
-            
+            image{
+                box-align: right;
+            }
+            input{
+                border-radius: 13px;
+            }
     

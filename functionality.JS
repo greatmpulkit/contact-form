@@ -22,6 +22,6 @@ function hi(){
        alert("**Please write the thing you want to order**");
 
       else
-    alert ("Your name is "+name+" Your phone number is "+phone+" and the thing you ordered is to be dilevered to "+address+" If their will be any problem we will mail you at your email address "+mail+" Thing you ordered is "+thing );
+    alert ("Your name is "+name+" Your phone number is "+phone+" and the thing you ordered is to be dilevered to "+address+" If their will be any problem we will mail you at your email address "+mail+" thing you ordered is "+thing );
      }   
              
