@@ -11,9 +11,9 @@ function hi(){
        else if (/*!ValidateNo(phoneNo)*/phone=="")
        alert("**Please fill your phone number**");
 
-      /* else if(!ValidateNo(phoneNo)){
+       else if(!validateNo(phone)){
          alert("please enter a 10 digit no.")
-       }*/
+       }
 
       else if(address=="")
        alert("**Your adress is necessary to deliver your item please fill**");
@@ -45,19 +45,19 @@ function hi(){
 else
   return true;
  }
-/*function ValidateNo(phoneNo){
-  if (phoneNo.value =="" || phoneNo.value == null ) {
+function validateNo(phoneNo){
+  if (phoneNo =="" || phoneNo == null ) {
     alert("please fill your mobile no.");
     return false;
   }
-}
-  if (phoneNo.value.length < 10 || phoneNo.value.length > 10) {
+
+  if (phoneNo.length < 10 || phoneNo.length > 10) {
     alert("phone number invalid,please enter 10 digit number");
     return false;
   }
-  else{
-    return(true);
-  }*/
+  else
+    return true;
+  }
 
 
      
