@@ -1,5 +1,11 @@
-body {background-color: black;}
-body {text-align:left;}
+body {
+    background-image:url('img/logo.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+}
+/*.content*/body{text-align:left;}
+
 
         #paramain {color: hotpink;}
         #read {color: whitesmoke;}
@@ -35,4 +41,4 @@ body {text-align:left;}
             input{
                 border-radius: 13px;
             }
-    
+        
